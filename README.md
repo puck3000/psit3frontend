@@ -1,10 +1,13 @@
 # frontend
 
 Vue Projekt für PSIT3.
+Hier mal in einer ersten Version zum durchclicken:
+
+
 
 ## Siehe todos.md für... Todos!
 
-## hier mal in einer ersten Version zum durchclicken: 
+
 
 
 ## Project setup
